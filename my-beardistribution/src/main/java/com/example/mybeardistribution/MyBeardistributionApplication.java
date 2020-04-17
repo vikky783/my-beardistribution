@@ -10,6 +10,7 @@ public class MyBeardistributionApplication {
 		SpringApplication.run(MyBeardistributionApplication.class, args);
 		//heeo
 		//sdfsdfsdfsdfsdfsdf
+		//hdghgdhdhghdgdhghd
 	}
 
 }
